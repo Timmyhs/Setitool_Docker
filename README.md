@@ -22,7 +22,7 @@ Vue_sent：存放前端 Vue 3 程式碼
 - 使用自訂 Dockerfile 及 nginx.conf 建立 Docker 映像檔
 - 將映像檔 push 到 Google Container Registry
 - 從映像檔部署至 Cloud Run，開放 8080 port
-- 
+  
 ## 後端部署流程
 - 建立 FastAPI 專案，並撰寫 Dockerfile
 - 同樣打包、push、部署到 Cloud Run
