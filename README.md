@@ -12,7 +12,7 @@
 後端: FastAPI	Cloud Run (Docker)
 雲端: Google Cloud Platform	
 
-## 專案結構說明
+## 結構說明
 Sentiment_Analysis：存放後端 FastAPI 程式碼
 
 Vue_sent：存放前端 Vue 3 程式碼
